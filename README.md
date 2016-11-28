@@ -26,3 +26,7 @@
 5.    git remoteadd  \<name\>  \<url\>
 >    
 >     添加远程仓库,name可以随便取,url必须真实存在
+
+5.    git status
+>    
+>     查看文件状态
